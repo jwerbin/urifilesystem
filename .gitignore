@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# poetry files that shouldn't be tracked
+poetry.lock
